@@ -1,4 +1,4 @@
-[![build-ublue](https://github.com/ublue-os/ubuntu/actions/workflows/build.yml/badge.svg)](https://github.com/ublue-os/ubuntu/actions/workflows/build.yml)
+[![build-ublue](https://github.com/ublue-os/gnome-vrr/actions/workflows/build.yml/badge.svg)](https://github.com/ublue-os/gnome-vrr/actions/workflows/build.yml)
 
 # GNOME VRR
 
